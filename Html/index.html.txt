@@ -1,0 +1,26 @@
+<html>
+  <body>
+     <h1><u>Endangered Animals</u></h1>
+    <h2>By Ria Mukesh</h2>
+    <p1>When people talk about endangered animals, you may ask:
+    What animals are these? Why are they endangered? How many are left?
+    What do they look like? Where do they live? What can <strong>I</strong> 
+    do to help?
+    <br>Well, this site can tell you a bit more about
+    a few endangered animals...</p1>
+    
+    <br><br><p2>Click on one of these links to learn more about it!</p2>
+    
+      <div class="topnav">
+  <br><a class="active" href="index.html">Home</a>
+  <a href="amur_leopard.html">Amur Leopard</a>
+  <a href="vaquita.html">Vaquita</a>
+  <a href="javan_rhinoceros.html">Javan Rhinoceros</a>
+  <a href="upcoming.html">Upcoming Events</a>
+  <a href="contacts.html">Contacts</a>
+</div>
+
+  </body>
+</html>
+
+
