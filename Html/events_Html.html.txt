@@ -1,0 +1,71 @@
+﻿<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="mystylesheet.css">
+    <script src="myJSfile.js"></script>
+  </head>
+  <body>
+    <div id="headers">
+      <h1>EVENTS, PETITIONS, & DONATIONS</h1>
+      <h3><i>created by <button><a href="https://google.com" title="learn abt me">Fariha Ahmed</a></button></i></h3>
+    </div>
+    <div class="row">
+      <div class="column">
+        <h3 class="subheader">EVENTS</h3>
+      <p  class="bodytext"><i>Here are some local events
+      that you can participate in:</i></p>
+      <ul class="listtext">
+        <li><a href="https://www.eventbrite.com/e/518-national-river-cleanup-day-registration-54115944246"
+        title="National River Cleanup Day">National River Cleanup day</a></li>
+        <p>Help prevent trash from reaching the Bay in this local event!</p>
+        <p><i>When?</i> May 18</p>
+        <p><i>Where?</i> Capitol Expressway, 1001 E Capitol Expressway, San Jose, CA 95121</p>
+        <li><a href="https://ecologycenter.org/calendar/" title="EcoCalender">Bay Area Ecocalender</a></li>
+        <p>The EcoCalendar is a comprehensive listing of Bay Area environmental and social justice classes,
+        workshops, exhibits, tours, films, and events.</p>
+      </ul>
+      </div>
+      <div class="column">
+        <h3 class="subheader">PETITIONS</h3>
+      <p class="bodytext"><i>Support some environmental causes
+      by signing these petitions!</i></p>
+      <ul class="listtext">
+        <li><a href="https://act.nrdc.org/sign/climate-action-restore-leadership/"
+        title="NRDC">The Climate Action Petition</a> by NRDC</li>
+        <p class="bodytext">Demand that President Trump restore America's Leadership
+        on Climate Change!</p>
+        <li><a href="https://secure.wildearthguardians.org/site/Advocacy?cmd=display&page=UserAction&id=888"
+        title="WilderEarth Guardians">Save the Endangered Species Act from Extinction</a> by WildEarth Guardians</li>
+        <p>Tell your members of Congress: Protect endangered native species by opposing any legislation
+        that would weaken the Endangered Species Act!</p>
+        <li><a href="http://petitions.moveon.org/environmental-action/" title="MoveOn Petitions">
+        MoveOn Petitions</a></li>
+        <p  class="bodytext">A variety of petitions for causes related to global warming and other issues.</p>
+      </ul>
+      </div>
+      <div class="column">
+        <h3 class="subheader">DONATIONS</h3>
+      <img src="download.jpg">
+      <p class="bodytext"><i>Support official organizations, who
+      need all the help they can get in fighting for the environment!</i>
+      <ul class="listtext">
+        <li><a href="https://act.nrdc.org/donate/donate-one-time/?source=MRNRDCc3FR&gclid=CjwKCAjw-ZvlBRBbEiwANw9UWnFJtzxwRnluKmvqS8iryMtDv
+        GeKqoIcLDYf0zPGSSBWv7UNtOV4WhoCNtwQAvD_BwE" title="NRDC">National Resources Defense Council</a></li>
+        <p>The NRDC are on the frontlines every day, fighting in court and campaining for the defense
+         of our climate, public health, wildlife, and wild places. Help them in their fight during this crucial time!</p>
+        <li><a href="https://www.cooleffect.org/content/donate" title="CoolEffect">Cool Effect</a></li>
+        <p>Support carbon-reducing projects around the world with the Cool Effect organization!</p>
+        <li><a href="https://secure.donationpay.org/ecologycenter/" title="Ecology Center">Bay Area EcologyCenter</a></li>
+        <p>The Ecology Center is working hard towards building empowered and strong communities with a
+        strong focus on creating equal access to healthy food, sustainable resource use, and helping
+        creating a strong and stable climate. Support them with donations so they can continue their fight!</p>
+        <li><a href="https://secure.wildearthguardians.org/site/
+        Donation2?df_id=8850&mfc_pref=T&8850.donation=form1" title="WildEarth Guardians">WildEarth Guardians</a></li>
+        <p>WildEarth Guardians needs your support to continue protecting and restoring the 
+        wilderness of the American west!</p>
+      </ul>
+      </div>
+      <p class="scroll" id="text" onmouseover="document.getElementById
+      ('text').innerHTML='HELP THE ENVIRONMENT! PROTECT YOUR FUTURE!' ">:3</p>
+    </div>
+  </body>
+</html>

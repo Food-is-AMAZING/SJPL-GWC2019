@@ -1,0 +1,49 @@
+﻿img{
+  text-align: center;
+  height:150px;
+  border-radius:100%
+}
+body{
+  background-color: #c7ceea;
+}
+#headers{
+  text-align: center;
+  color: #ff9aa2;
+  font-family: Verdana, serif;
+}
+.column {
+  float: left;
+  width: 33%;
+  column-gap: 40px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#imgsection{
+  text-align: center;
+}
+.subheader{
+  text-align: center;
+  color: white;
+  font-family: "Verdana", Times, Serif;
+}
+.bodytext{
+  color:black;
+  font-family: "Calibri", Times, Serif;
+  font-style: normal;
+  break-inside: avoid;
+}
+.listtext{
+  color:black;
+  font-family: "Calibri", Times, serif;
+  font-style: normal;
+}
+.scroll{
+  text-align: center;
+  color: white;
+  font-family: "Calibri", Times, serif;
+}
