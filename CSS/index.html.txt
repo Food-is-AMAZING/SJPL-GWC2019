@@ -1,0 +1,20 @@
+img{
+  height:150px;
+  border-radius:50%
+}
+body{
+  background-color: lightblue;
+}
+#headers{
+  text-align: center;
+  color: pink;
+}
+#imgsection{
+  text-align: center;
+}
+.bodytext{
+  color:black;
+}
+p {
+  font-family: "Calibri";
+}
