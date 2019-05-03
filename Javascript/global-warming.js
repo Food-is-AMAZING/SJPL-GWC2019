@@ -1,6 +1,6 @@
 ﻿function funFact() {
   
-  var firstFact = prompt("Add Text")
+  var firstFact = prompt("The USA, China, and the EU account for a majority of all the greenhouse gases emitted on Earth; China producing 30%, USA producing 15%, and the EU produces 9%. (press OK to continue) ")
   
   
 
