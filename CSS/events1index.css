@@ -4,11 +4,11 @@
   border-radius:100%
 }
 body{
-  background-color: #c7ceea;
+  background-color: #c6deff;
 }
 #headers{
   text-align: center;
-  color: #ff9aa2;
+  color: #8DC282;
   font-family: Verdana, serif;
 }
 .column {
@@ -28,7 +28,7 @@ body{
 }
 .subheader{
   text-align: center;
-  color: white;
+  color: #71a6d2;
   font-family: "Verdana", Times, Serif;
 }
 .bodytext{
