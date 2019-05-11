@@ -19,3 +19,27 @@
   clear: both;
 
 } 
+
+body{
+
+  background-color: #c6deff;
+
+}
+
+#headers{
+
+  text-align: center;
+
+  color: #8DC282;
+
+  font-family: Verdana, serif;
+
+}
+
+.bodytext{
+  color:black;
+  font-family: "Calibri", Times, Serif;
+  font-style: normal;
+  break-inside: avoid;
+}
+
