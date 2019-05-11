@@ -26,7 +26,7 @@ body{
 
 }
 
-#headers{
+#title{
 
   text-align: center;
 
@@ -34,6 +34,13 @@ body{
 
   font-family: Verdana, serif;
 
+}
+
+.subheader{
+
+  text-align: center;
+  color: #71a6d2;
+  font-family: "Verdana", Times, Serif;
 }
 
 .bodytext{
